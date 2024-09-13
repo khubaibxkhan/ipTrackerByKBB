@@ -15,9 +15,11 @@ Step 4. git clone repository link
 <br>
 Step 5. cd ipTrackerByKBB
 <br>
-Step 6. ./ipTrackerByKBB.sh or you can type bash ipTrackerByKBB.sh
+step 6. chmod +x ipTrackerByKBB.sh
 <br>
-Step 7. Enter the ip adress of person you wanna track 
+Step 7. ./ipTrackerByKBB.sh or you can type bash ipTrackerByKBB.sh
+<br>
+Step 8. Enter the ip adress of person you wanna track 
 <br>
 <h3>Enjoy!</h3>
 
