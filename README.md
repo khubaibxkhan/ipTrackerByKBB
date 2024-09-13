@@ -5,17 +5,19 @@ Author : Khubaib Ahmad Khan
 <br>
 To use this tool look at following steps 
 <br>
-1. open the terminal 
+Step 1. open the terminal 
+<Br>
+Step 2. apt install figlet
 <br>
-2. install git 
+Step 3. install git 
 <br>
-3. git clone repository link 
+Step 4. git clone repository link 
 <br>
-4. cd ipTrackerByKBB
+Step 5. cd ipTrackerByKBB
 <br>
-5. ./ipTrackerByKBB.sh or you can type bash ipTrackerByKBB.sh
+Step 6. ./ipTrackerByKBB.sh or you can type bash ipTrackerByKBB.sh
 <br>
-6. Enter the ip adress of person you wanna track 
+Step 7. Enter the ip adress of person you wanna track 
 <br>
 <h3>Enjoy!</h3>
 
