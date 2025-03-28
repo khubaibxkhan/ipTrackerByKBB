@@ -1,5 +1,5 @@
 # ipTrackerByKBB
-A IP address tracking tool.
+An IP address tracking tool.
 <br>
 Author : Khubaib Ahmad Khan
 <br>
